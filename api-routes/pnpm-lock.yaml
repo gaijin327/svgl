@@ -15,8 +15,8 @@ importers:
         specifier: 1.36.1
         version: 1.36.1
       hono:
-        specifier: 4.11.4
-        version: 4.11.4
+        specifier: 4.12.16
+        version: 4.12.16
     devDependencies:
       '@cloudflare/workers-types':
         specifier: 4.20260114.0
@@ -451,8 +451,8 @@ packages:
   glob-to-regexp@0.4.1:
     resolution: {integrity: sha512-lkX1HJXwyMcprw/5YUZc2s7DrpAiHB21/V+E1rHUrVNokkvB6bqMzT0VfV6/86ZNabt1k14YOIaT7nDvOX3Iiw==}
 
-  hono@4.11.4:
-    resolution: {integrity: sha512-U7tt8JsyrxSRKspfhtLET79pU8K+tInj5QZXs1jSugO1Vq5dFj3kmZsRldo29mTBfcjDRVRXrEZ6LS63Cog9ZA==}
+  hono@4.12.16:
+    resolution: {integrity: sha512-jN0ZewiNAWSe5khM3EyCmBb250+b40wWbwNILNfEvq84VREWwOIkuUsFONk/3i3nqkz7Oe1PcpM2mwQEK2L9Kg==}
     engines: {node: '>=16.9.0'}
 
   kleur@4.1.5:
@@ -839,7 +839,7 @@ snapshots:
 
   glob-to-regexp@0.4.1: {}
 
-  hono@4.11.4: {}
+  hono@4.12.16: {}
 
   kleur@4.1.5: {}
 
